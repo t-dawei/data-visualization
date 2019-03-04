@@ -1,0 +1,30 @@
+﻿n
+{name:LG LE6016D DVR }
+{name:补丁：LG LE6016D DVR v2.6.2}
+{name:Linksys WVC54GCA}
+{name:补丁：Version 2.13.1 of WVC54GCA}
+{name:Linksys WVC11B}
+{name:补丁：Version 2.13.1 of WVC11B}
+{name:TP-Link TL-SC3171}
+{name:补丁：TP-Link TL-SC3171 3.3}
+{name:TP-Link TL-SC3230N}
+{name:补丁：TP-Link TL-SC3171 5.0}
+{name:缓存溢出}
+{name:Aebell AL-QM5-EC10-P}
+{name:命令注入}
+{name:补丁：Aebell AL-QM5-EC10-P 4.0.3}
+{name:认证缺失}
+{name:AirLive WL2600CAM}
+{name:目录遍历}
+{name:补丁：Airlive WL2600CAM 2.0}
+{name:Brickcom CB-100Ae}
+{name:信息泄露}
+{name:补丁：Version 5.0.5 of CB-100Ae}
+{name:硬编码}
+{name:D-Link DCS-2103}
+{name:补丁：Build 4.1.1}
+{name:D-Link DCS-3411}
+{name:验证绕过}
+{name:补丁：Build 4.2.1}
+{name:Honeywell HICC-1100PT}
+{name:补丁：Honeywell HICC-1100PT 6.0}
