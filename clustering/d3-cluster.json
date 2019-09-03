@@ -1,0 +1,2616 @@
+{
+    "nodes": [
+        {
+            "id": "celery/case",
+            "group": 245
+        },
+        {
+            "id": "gforcada/flake8-isort",
+            "group": 245
+        },
+        {
+            "id": "mdsitton/configparser-3.2.0r3",
+            "group": 217
+        },
+        {
+            "id": "Distrotech/setuptools",
+            "group": 283
+        },
+        {
+            "id": "docopt/docopt",
+            "group": 217
+        },
+        {
+            "id": "calvinchengx/python-mock",
+            "group": 217
+        },
+        {
+            "id": "plone/plone.autoform",
+            "group": 283
+        },
+        {
+            "id": "openstack/glance",
+            "group": 245
+        },
+        {
+            "id": "ambv/singledispatch",
+            "group": 217
+        },
+        {
+            "id": "mozilla/bleach",
+            "group": 217
+        },
+        {
+            "id": "mediawiki-utilities/python-mwoauth",
+            "group": 245
+        },
+        {
+            "id": "wanwenqq/vue-init",
+            "group": 20
+        },
+        {
+            "id": "zopefoundation/zope.browserpage",
+            "group": 283
+        },
+        {
+            "id": "readthedocs/sphinx_rtd_theme",
+            "group": 217
+        },
+        {
+            "id": "kennethreitz/requests",
+            "group": 217
+        },
+        {
+            "id": "Shubbler/bitskins-python",
+            "group": 343
+        },
+        {
+            "id": "pytest-dev/pytest-cov",
+            "group": 217
+        },
+        {
+            "id": "lxml/lxml",
+            "group": 217
+        },
+        {
+            "id": "coveralls-clients/coveralls-python",
+            "group": 217
+        },
+        {
+            "id": "BrianRigoni/ObservatorioTerritorial",
+            "group": 335
+        },
+        {
+            "id": "rtfd/sphinx_rtd_theme",
+            "group": 217
+        },
+        {
+            "id": "hvac/hvac",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/ZServer",
+            "group": 283
+        },
+        {
+            "id": "maniceet/How-do-you-like-them-Apples",
+            "group": 279
+        },
+        {
+            "id": "msabramo/tox",
+            "group": 217
+        },
+        {
+            "id": "zopefoundation/Zope",
+            "group": 283
+        },
+        {
+            "id": "benjaminp/six",
+            "group": 217
+        },
+        {
+            "id": "zopefoundation/zope.datetime",
+            "group": 283
+        },
+        {
+            "id": "httplib2/httplib2",
+            "group": 217
+        },
+        {
+            "id": "celery/vine",
+            "group": 245
+        },
+        {
+            "id": "edx/bok-choy",
+            "group": 245
+        },
+        {
+            "id": "spulec/freezegun",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/zope.annotation",
+            "group": 283
+        },
+        {
+            "id": "HypothesisWorks/hypothesis",
+            "group": 245
+        },
+        {
+            "id": "requests/requests-oauthlib",
+            "group": 343
+        },
+        {
+            "id": "zulip/zulip",
+            "group": 245
+        },
+        {
+            "id": "cheshire/virtualenv",
+            "group": 217
+        },
+        {
+            "id": "codecov/codecov-python",
+            "group": 217
+        },
+        {
+            "id": "edx/completion",
+            "group": 245
+        },
+        {
+            "id": "edx/edx-ace",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/zope.lifecycleevent",
+            "group": 283
+        },
+        {
+            "id": "zopefoundation/zope.interface",
+            "group": 283
+        },
+        {
+            "id": "urllib3/urllib3",
+            "group": 217
+        },
+        {
+            "id": "testing-cabal/testtools",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/MultiMapping",
+            "group": 283
+        },
+        {
+            "id": "openstack/keystone",
+            "group": 245
+        },
+        {
+            "id": "CleanCut/green",
+            "group": 245
+        },
+        {
+            "id": "python-hyper/rfc3986",
+            "group": 245
+        },
+        {
+            "id": "vinayrana007/testapp",
+            "group": 20
+        },
+        {
+            "id": "edx/edx-oauth2-provider",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/Products.ZCatalog",
+            "group": 283
+        },
+        {
+            "id": "edx/edx-platform",
+            "group": 222
+        },
+        {
+            "id": "zopefoundation/zope.testing",
+            "group": 283
+        },
+        {
+            "id": "openstack/oslo.utils",
+            "group": 245
+        },
+        {
+            "id": "jpadilla/pyjwt",
+            "group": 217
+        },
+        {
+            "id": "plone/plone.behavior",
+            "group": 283
+        },
+        {
+            "id": "oauthlib/oauthlib",
+            "group": 245
+        },
+        {
+            "id": "openstack/oslo.config",
+            "group": 245
+        },
+        {
+            "id": "audreyr/jinja2_pluralize",
+            "group": 217
+        },
+        {
+            "id": "zopefoundation/Products.BTreeFolder2",
+            "group": 283
+        },
+        {
+            "id": "adamchainz/django-mysql",
+            "group": 245
+        },
+        {
+            "id": "tartley/colorama",
+            "group": 217
+        },
+        {
+            "id": "pytest-dev/pytest-randomly",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/zope.tal",
+            "group": 283
+        },
+        {
+            "id": "WeblateOrg/translation-finder",
+            "group": 245
+        },
+        {
+            "id": "WeblateOrg/weblate",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/BTrees",
+            "group": 283
+        },
+        {
+            "id": "brettcannon/caniusepython3",
+            "group": 217
+        },
+        {
+            "id": "pypa/pipenv",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/z3c.form",
+            "group": 283
+        },
+        {
+            "id": "numpy/numpy",
+            "group": 268
+        },
+        {
+            "id": "ThomasWaldmann/argparse",
+            "group": 217
+        },
+        {
+            "id": "repoze/repoze.xmliter",
+            "group": 283
+        },
+        {
+            "id": "Netflix/security_monkey",
+            "group": 245
+        },
+        {
+            "id": "pytest-dev/pluggy",
+            "group": 217
+        },
+        {
+            "id": "django-haystack/pysolr",
+            "group": 245
+        },
+        {
+            "id": "pypa/packaging",
+            "group": 217
+        },
+        {
+            "id": "zopefoundation/zope.formlib",
+            "group": 283
+        },
+        {
+            "id": "edx/edx-val",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/ExtensionClass",
+            "group": 283
+        },
+        {
+            "id": "plone/plone.portlets",
+            "group": 283
+        },
+        {
+            "id": "edx/edx-when",
+            "group": 245
+        },
+        {
+            "id": "gforcada/flake8-builtins",
+            "group": 245
+        },
+        {
+            "id": "PythonCharmers/python-future",
+            "group": 217
+        },
+        {
+            "id": "openstack/oslo.cache",
+            "group": 245
+        },
+        {
+            "id": "microsoft/knack",
+            "group": 245
+        },
+        {
+            "id": "zopefoundation/zope.testrunner",
+            "group": 283
+        },
+        {
+            "id": "funnyman273/dynamichess",
+            "group": 268
+        },
+        {
+            "id": "edx/code-annotations",
+            "group": 245
+        },
+        {
+            "id": "Tustin/PlayStationDiscord-Games",
+            "group": 343
+        }
+    ],
+    "links": [
+        {
+            "source": "celery/case",
+            "target": "celery/vine",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-isort",
+            "target": "WeblateOrg/translation-finder",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-isort",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-isort",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "mdsitton/configparser-3.2.0r3",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.tal",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "celery/case",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.testing",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.interface",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "plone/plone.behavior",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "Distrotech/setuptools",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/BTrees",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.testrunner",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "plone/plone.portlets",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.lifecycleevent",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "celery/vine",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.browserpage",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "plone/plone.autoform",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.datetime",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "repoze/repoze.xmliter",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "Distrotech/setuptools",
+            "target": "zopefoundation/zope.annotation",
+            "value": 1
+        },
+        {
+            "source": "docopt/docopt",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "docopt/docopt",
+            "target": "coveralls-clients/coveralls-python",
+            "value": 1
+        },
+        {
+            "source": "docopt/docopt",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "docopt/docopt",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "docopt/docopt",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "urllib3/urllib3",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "spulec/freezegun",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "CleanCut/green",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "openstack/oslo.utils",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "codecov/codecov-python",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "requests/requests-oauthlib",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "celery/case",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "oauthlib/oauthlib",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "microsoft/knack",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "openstack/oslo.cache",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "openstack/oslo.config",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "coveralls-clients/coveralls-python",
+            "value": 1
+        },
+        {
+            "source": "calvinchengx/python-mock",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "ambv/singledispatch",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "maniceet/How-do-you-like-them-Apples",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "wanwenqq/vue-init",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "mozilla/bleach",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.browserpage",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.browserpage",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.browserpage",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "python-hyper/rfc3986",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "jpadilla/pyjwt",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "zopefoundation/BTrees",
+            "value": 1
+        },
+        {
+            "source": "readthedocs/sphinx_rtd_theme",
+            "target": "zopefoundation/zope.lifecycleevent",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "Shubbler/bitskins-python",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "coveralls-clients/coveralls-python",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "urllib3/urllib3",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "codecov/codecov-python",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "Tustin/PlayStationDiscord-Games",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "django-haystack/pysolr",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "openstack/oslo.config",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "mediawiki-utilities/python-mwoauth",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "maniceet/How-do-you-like-them-Apples",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "BrianRigoni/ObservatorioTerritorial",
+            "value": 1
+        },
+        {
+            "source": "kennethreitz/requests",
+            "target": "requests/requests-oauthlib",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "codecov/codecov-python",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "oauthlib/oauthlib",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "WeblateOrg/translation-finder",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "python-hyper/rfc3986",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "jpadilla/pyjwt",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-cov",
+            "target": "celery/vine",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "CleanCut/green",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "repoze/repoze.xmliter",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "lxml/lxml",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "coveralls-clients/coveralls-python",
+            "target": "spulec/freezegun",
+            "value": 1
+        },
+        {
+            "source": "coveralls-clients/coveralls-python",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "coveralls-clients/coveralls-python",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "python-hyper/rfc3986",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "jpadilla/pyjwt",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "zopefoundation/BTrees",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "rtfd/sphinx_rtd_theme",
+            "target": "zopefoundation/zope.lifecycleevent",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ZServer",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "celery/case",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "pypa/packaging",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "msabramo/tox",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "celery/vine",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "mozilla/bleach",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "urllib3/urllib3",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "msabramo/tox",
+            "target": "audreyr/jinja2_pluralize",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/Zope",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/Zope",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "openstack/oslo.cache",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "testing-cabal/testtools",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "openstack/oslo.config",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "WeblateOrg/translation-finder",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "django-haystack/pysolr",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "celery/case",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "mediawiki-utilities/python-mwoauth",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "mozilla/bleach",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "microsoft/knack",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zopefoundation/zope.testrunner",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "ambv/singledispatch",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "Netflix/security_monkey",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "plone/plone.autoform",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "spulec/freezegun",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "openstack/oslo.utils",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "pypa/packaging",
+            "value": 1
+        },
+        {
+            "source": "benjaminp/six",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.datetime",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.datetime",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "httplib2/httplib2",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "httplib2/httplib2",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "httplib2/httplib2",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "celery/vine",
+            "target": "Netflix/security_monkey",
+            "value": 1
+        },
+        {
+            "source": "edx/bok-choy",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "spulec/freezegun",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "spulec/freezegun",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.annotation",
+            "target": "plone/plone.portlets",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.annotation",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.annotation",
+            "target": "plone/plone.behavior",
+            "value": 1
+        },
+        {
+            "source": "HypothesisWorks/hypothesis",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "requests/requests-oauthlib",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "requests/requests-oauthlib",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "requests/requests-oauthlib",
+            "target": "mediawiki-utilities/python-mwoauth",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "msabramo/tox",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "cheshire/virtualenv",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "celery/vine",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "celery/case",
+            "value": 1
+        },
+        {
+            "source": "codecov/codecov-python",
+            "target": "WeblateOrg/translation-finder",
+            "value": 1
+        },
+        {
+            "source": "edx/completion",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "edx/edx-ace",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.lifecycleevent",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.lifecycleevent",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.lifecycleevent",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.lifecycleevent",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.lifecycleevent",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.annotation",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.tal",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "plone/plone.portlets",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.browserpage",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "plone/plone.autoform",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.lifecycleevent",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "plone/plone.behavior",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/zope.testrunner",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/BTrees",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.interface",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "django-haystack/pysolr",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "urllib3/urllib3",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "CleanCut/green",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "openstack/oslo.config",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "openstack/oslo.utils",
+            "value": 1
+        },
+        {
+            "source": "testing-cabal/testtools",
+            "target": "testing-cabal/testtools",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/MultiMapping",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "python-hyper/rfc3986",
+            "target": "openstack/oslo.config",
+            "value": 1
+        },
+        {
+            "source": "edx/edx-oauth2-provider",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/Products.ZCatalog",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/zope.testrunner",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/zope.browserpage",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/zope.tal",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/zope.annotation",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testing",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.utils",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.utils",
+            "target": "openstack/oslo.cache",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.utils",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "Netflix/security_monkey",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "mediawiki-utilities/python-mwoauth",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "oauthlib/oauthlib",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "jpadilla/pyjwt",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "mediawiki-utilities/python-mwoauth",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "requests/requests-oauthlib",
+            "value": 1
+        },
+        {
+            "source": "oauthlib/oauthlib",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.config",
+            "target": "openstack/oslo.cache",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.config",
+            "target": "openstack/oslo.utils",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.config",
+            "target": "openstack/glance",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.config",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "audreyr/jinja2_pluralize",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/Products.BTreeFolder2",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "adamchainz/django-mysql",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "tartley/colorama",
+            "target": "CleanCut/green",
+            "value": 1
+        },
+        {
+            "source": "tartley/colorama",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "tartley/colorama",
+            "target": "microsoft/knack",
+            "value": 1
+        },
+        {
+            "source": "tartley/colorama",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-randomly",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-randomly",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pytest-randomly",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.tal",
+            "target": "zopefoundation/zope.browserpage",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.tal",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "WeblateOrg/translation-finder",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/BTrees",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/BTrees",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/BTrees",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "brettcannon/caniusepython3",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/z3c.form",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/z3c.form",
+            "target": "plone/plone.autoform",
+            "value": 1
+        },
+        {
+            "source": "numpy/numpy",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "numpy/numpy",
+            "target": "BrianRigoni/ObservatorioTerritorial",
+            "value": 1
+        },
+        {
+            "source": "numpy/numpy",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "numpy/numpy",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "numpy/numpy",
+            "target": "maniceet/How-do-you-like-them-Apples",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "ThomasWaldmann/argparse",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "pytest-dev/pluggy",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "kennethreitz/requests",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "gforcada/flake8-builtins",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "urllib3/urllib3",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "pytest-dev/pluggy",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "brettcannon/caniusepython3",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/edx-ace",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "pypa/pipenv",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/edx-oauth2-provider",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "zulip/zulip",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "HypothesisWorks/hypothesis",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/bok-choy",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "pytest-dev/pytest-randomly",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "adamchainz/django-mysql",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "hvac/hvac",
+            "value": 1
+        },
+        {
+            "source": "pypa/packaging",
+            "target": "edx/code-annotations",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.formlib",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "edx/edx-val",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ExtensionClass",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ExtensionClass",
+            "target": "zopefoundation/MultiMapping",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ExtensionClass",
+            "target": "zopefoundation/ZServer",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ExtensionClass",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/ExtensionClass",
+            "target": "zopefoundation/Products.ZCatalog",
+            "value": 1
+        },
+        {
+            "source": "edx/edx-when",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-builtins",
+            "target": "WeblateOrg/weblate",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-builtins",
+            "target": "WeblateOrg/translation-finder",
+            "value": 1
+        },
+        {
+            "source": "gforcada/flake8-builtins",
+            "target": "django-haystack/pysolr",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "edx/edx-when",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "edx/completion",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "repoze/repoze.xmliter",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "edx/edx-val",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "PythonCharmers/python-future",
+            "target": "zopefoundation/Products.BTreeFolder2",
+            "value": 1
+        },
+        {
+            "source": "openstack/oslo.cache",
+            "target": "openstack/keystone",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/zope.annotation",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/zope.tal",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/BTrees",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/zope.formlib",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/z3c.form",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/Zope",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/zope.datetime",
+            "value": 1
+        },
+        {
+            "source": "zopefoundation/zope.testrunner",
+            "target": "zopefoundation/zope.browserpage",
+            "value": 1
+        },
+        {
+            "source": "funnyman273/dynamichess",
+            "target": "wanwenqq/vue-init",
+            "value": 1
+        },
+        {
+            "source": "funnyman273/dynamichess",
+            "target": "vinayrana007/testapp",
+            "value": 1
+        },
+        {
+            "source": "edx/code-annotations",
+            "target": "edx/edx-platform",
+            "value": 1
+        },
+        {
+            "source": "edx/code-annotations",
+            "target": "edx/edx-when",
+            "value": 1
+        }
+    ]
+}

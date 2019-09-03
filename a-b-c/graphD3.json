@@ -1,0 +1,720 @@
+{
+    "nodes": [
+        {
+            "id": "Linksys WVC54GCA",
+            "group": 1
+        },
+        {
+            "id": "Linksys WVC11B",
+            "group": 1
+        },
+        {
+            "id": "Dahua DVR",
+            "group": 1
+        },
+        {
+            "id": "Honeywell HICC-1100PT",
+            "group": 1
+        },
+        {
+            "id": "Hikvision DS-2CD7153-E",
+            "group": 1
+        },
+        {
+            "id": "MESSOA NIC835",
+            "group": 1
+        },
+        {
+            "id": "AirLive WL2600CAM",
+            "group": 1
+        },
+        {
+            "id": "D-Link DCS-2103",
+            "group": 1
+        },
+        {
+            "id": "Dahua IPC-HF2100",
+            "group": 1
+        },
+        {
+            "id": "MESSOA NIC990",
+            "group": 1
+        },
+        {
+            "id": "Bosch NDC-255-P",
+            "group": 1
+        },
+        {
+            "id": "D-Link DCS-3411",
+            "group": 1
+        },
+        {
+            "id": "TP-Link TL-SC3230N",
+            "group": 1
+        },
+        {
+            "id": "BlueIris VMS",
+            "group": 1
+        },
+        {
+            "id": "Sony SNC-CH140",
+            "group": 1
+        },
+        {
+            "id": "Aebell AL-QM5-EC10-P",
+            "group": 1
+        },
+        {
+            "id": "TP-Link TL-SC3171",
+            "group": 1
+        },
+        {
+            "id": "Hikvision DS-2CD893PF-E",
+            "group": 1
+        },
+        {
+            "id": "Legrand CM2001",
+            "group": 1
+        },
+        {
+            "id": "Bosch 630 VR ",
+            "group": 1
+        },
+        {
+            "id": "Brickcom CB-100Ae",
+            "group": 1
+        },
+        {
+            "id": "LG LE6016D DVR ",
+            "group": 1
+        },
+        {
+            "id": "验证绕过",
+            "group": 2
+        },
+        {
+            "id": "信息泄露",
+            "group": 2
+        },
+        {
+            "id": "认证缺失",
+            "group": 2
+        },
+        {
+            "id": "硬编码",
+            "group": 2
+        },
+        {
+            "id": "缓存溢出",
+            "group": 2
+        },
+        {
+            "id": "命令注入",
+            "group": 2
+        },
+        {
+            "id": "目录遍历",
+            "group": 2
+        },
+        {
+            "id": "补丁：LG LE6016D DVR v2.6.2",
+            "group": 3
+        },
+        {
+            "id": "补丁：Version 2.13.1 of WVC54GCA",
+            "group": 3
+        },
+        {
+            "id": "补丁：Version 2.13.1 of WVC11B",
+            "group": 3
+        },
+        {
+            "id": "补丁：Dahua Dahua-DVR 1.11.3",
+            "group": 3
+        },
+        {
+            "id": "补丁：Version 5.0.5 of CB-100Ae",
+            "group": 3
+        },
+        {
+            "id": "补丁：Honeywell HICC-1100PT 6.0",
+            "group": 3
+        },
+        {
+            "id": "补丁：Hikvision Dikvision-E 4.11.3",
+            "group": 3
+        },
+        {
+            "id": "补丁：Mossa Nossa-NIC835 3.0",
+            "group": 3
+        },
+        {
+            "id": "补丁：Airlive WL2600CAM 2.0",
+            "group": 3
+        },
+        {
+            "id": "补丁：Build 4.1.1",
+            "group": 3
+        },
+        {
+            "id": "补丁：Dahua IPC-HF2100 3.2.1",
+            "group": 3
+        },
+        {
+            "id": "补丁：Mossa Nossa-NIC990 4.0",
+            "group": 3
+        },
+        {
+            "id": "补丁：Bosch NDC-255-P 1.3.1",
+            "group": 3
+        },
+        {
+            "id": "补丁：Build 4.2.1",
+            "group": 3
+        },
+        {
+            "id": "补丁：TP-Link TL-SC3171 5.0",
+            "group": 3
+        },
+        {
+            "id": "补丁：Build 2.8.1",
+            "group": 3
+        },
+        {
+            "id": "补丁：Sony SNC-CH140 5.5",
+            "group": 3
+        },
+        {
+            "id": "补丁：Aebell AL-QM5-EC10-P 4.0.3",
+            "group": 3
+        },
+        {
+            "id": "补丁：TP-Link TL-SC3171 3.3",
+            "group": 3
+        },
+        {
+            "id": "补丁：Hikvision Dikvision-E 6.2",
+            "group": 3
+        },
+        {
+            "id": "补丁：Build 1.13.3",
+            "group": 3
+        },
+        {
+            "id": "补丁：Bosch Vosch-VR 1.11.3",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": "补丁：LG LE6016D DVR v2.6.2",
+            "target": "LG LE6016D DVR ",
+            "value": 1
+        },
+        {
+            "source": "Linksys WVC54GCA",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "补丁：Version 2.13.1 of WVC54GCA",
+            "target": "Linksys WVC54GCA",
+            "value": 1
+        },
+        {
+            "source": "Linksys WVC11B",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "Linksys WVC11B",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "补丁：Version 2.13.1 of WVC11B",
+            "target": "Linksys WVC11B",
+            "value": 1
+        },
+        {
+            "source": "Dahua DVR",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "补丁：Dahua Dahua-DVR 1.11.3",
+            "target": "Dahua DVR",
+            "value": 1
+        },
+        {
+            "source": "Honeywell HICC-1100PT",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "Honeywell HICC-1100PT",
+            "target": "目录遍历",
+            "value": 1
+        },
+        {
+            "source": "补丁：Version 5.0.5 of CB-100Ae",
+            "target": "Brickcom CB-100Ae",
+            "value": 1
+        },
+        {
+            "source": "补丁：Honeywell HICC-1100PT 6.0",
+            "target": "Honeywell HICC-1100PT",
+            "value": 1
+        },
+        {
+            "source": "Hikvision DS-2CD7153-E",
+            "target": "目录遍历",
+            "value": 1
+        },
+        {
+            "source": "补丁：Hikvision Dikvision-E 4.11.3",
+            "target": "Hikvision DS-2CD7153-E",
+            "value": 1
+        },
+        {
+            "source": "MESSOA NIC835",
+            "target": "目录遍历",
+            "value": 1
+        },
+        {
+            "source": "补丁：Mossa Nossa-NIC835 3.0",
+            "target": "MESSOA NIC835",
+            "value": 1
+        },
+        {
+            "source": "验证绕过",
+            "target": "补丁：Mossa Nossa-NIC990 4.0",
+            "value": 1
+        },
+        {
+            "source": "验证绕过",
+            "target": "补丁：TP-Link TL-SC3171 5.0",
+            "value": 1
+        },
+        {
+            "source": "验证绕过",
+            "target": "补丁：Build 4.1.1",
+            "value": 1
+        },
+        {
+            "source": "验证绕过",
+            "target": "补丁：Airlive WL2600CAM 2.0",
+            "value": 1
+        },
+        {
+            "source": "验证绕过",
+            "target": "补丁：Aebell AL-QM5-EC10-P 4.0.3",
+            "value": 1
+        },
+        {
+            "source": "AirLive WL2600CAM",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "AirLive WL2600CAM",
+            "target": "验证绕过",
+            "value": 1
+        },
+        {
+            "source": "补丁：Airlive WL2600CAM 2.0",
+            "target": "AirLive WL2600CAM",
+            "value": 1
+        },
+        {
+            "source": "D-Link DCS-2103",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "D-Link DCS-2103",
+            "target": "验证绕过",
+            "value": 1
+        },
+        {
+            "source": "补丁：Build 4.1.1",
+            "target": "D-Link DCS-2103",
+            "value": 1
+        },
+        {
+            "source": "Dahua IPC-HF2100",
+            "target": "缓存溢出",
+            "value": 1
+        },
+        {
+            "source": "补丁：Dahua IPC-HF2100 3.2.1",
+            "target": "Dahua IPC-HF2100",
+            "value": 1
+        },
+        {
+            "source": "MESSOA NIC990",
+            "target": "验证绕过",
+            "value": 1
+        },
+        {
+            "source": "补丁：Mossa Nossa-NIC990 4.0",
+            "target": "MESSOA NIC990",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Sony SNC-CH140 5.5",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Dahua Dahua-DVR 1.11.3",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：TP-Link TL-SC3171 3.3",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Version 2.13.1 of WVC11B",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Version 2.13.1 of WVC54GCA",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：LG LE6016D DVR v2.6.2",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Build 4.1.1",
+            "value": 1
+        },
+        {
+            "source": "信息泄露",
+            "target": "补丁：Airlive WL2600CAM 2.0",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：Build 2.8.1",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：TP-Link TL-SC3171 3.3",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：Build 1.13.3",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：Bosch NDC-255-P 1.3.1",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：LG LE6016D DVR v2.6.2",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：Honeywell HICC-1100PT 6.0",
+            "value": 1
+        },
+        {
+            "source": "认证缺失",
+            "target": "补丁：Build 4.2.1",
+            "value": 1
+        },
+        {
+            "source": "Bosch NDC-255-P",
+            "target": "硬编码",
+            "value": 1
+        },
+        {
+            "source": "Bosch NDC-255-P",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "补丁：Bosch NDC-255-P 1.3.1",
+            "target": "Bosch NDC-255-P",
+            "value": 1
+        },
+        {
+            "source": "硬编码",
+            "target": "补丁：Bosch NDC-255-P 1.3.1",
+            "value": 1
+        },
+        {
+            "source": "硬编码",
+            "target": "补丁：Bosch Vosch-VR 1.11.3",
+            "value": 1
+        },
+        {
+            "source": "硬编码",
+            "target": "补丁：TP-Link TL-SC3171 3.3",
+            "value": 1
+        },
+        {
+            "source": "硬编码",
+            "target": "补丁：Version 5.0.5 of CB-100Ae",
+            "value": 1
+        },
+        {
+            "source": "D-Link DCS-3411",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "D-Link DCS-3411",
+            "target": "目录遍历",
+            "value": 1
+        },
+        {
+            "source": "D-Link DCS-3411",
+            "target": "缓存溢出",
+            "value": 1
+        },
+        {
+            "source": "缓存溢出",
+            "target": "补丁：Dahua IPC-HF2100 3.2.1",
+            "value": 1
+        },
+        {
+            "source": "缓存溢出",
+            "target": "补丁：Sony SNC-CH140 5.5",
+            "value": 1
+        },
+        {
+            "source": "缓存溢出",
+            "target": "补丁：Build 2.8.1",
+            "value": 1
+        },
+        {
+            "source": "缓存溢出",
+            "target": "补丁：TP-Link TL-SC3171 5.0",
+            "value": 1
+        },
+        {
+            "source": "缓存溢出",
+            "target": "补丁：Build 4.2.1",
+            "value": 1
+        },
+        {
+            "source": "补丁：Build 4.2.1",
+            "target": "D-Link DCS-3411",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3230N",
+            "target": "验证绕过",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3230N",
+            "target": "缓存溢出",
+            "value": 1
+        },
+        {
+            "source": "补丁：TP-Link TL-SC3171 5.0",
+            "target": "TP-Link TL-SC3230N",
+            "value": 1
+        },
+        {
+            "source": "BlueIris VMS",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "BlueIris VMS",
+            "target": "缓存溢出",
+            "value": 1
+        },
+        {
+            "source": "补丁：Build 2.8.1",
+            "target": "BlueIris VMS",
+            "value": 1
+        },
+        {
+            "source": "Sony SNC-CH140",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "Sony SNC-CH140",
+            "target": "缓存溢出",
+            "value": 1
+        },
+        {
+            "source": "补丁：Sony SNC-CH140 5.5",
+            "target": "Sony SNC-CH140",
+            "value": 1
+        },
+        {
+            "source": "Aebell AL-QM5-EC10-P",
+            "target": "验证绕过",
+            "value": 1
+        },
+        {
+            "source": "Aebell AL-QM5-EC10-P",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：Version 2.13.1 of WVC11B",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：Bosch Vosch-VR 1.11.3",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：Build 1.13.3",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：Hikvision Dikvision-E 6.2",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：TP-Link TL-SC3171 3.3",
+            "value": 1
+        },
+        {
+            "source": "命令注入",
+            "target": "补丁：Aebell AL-QM5-EC10-P 4.0.3",
+            "value": 1
+        },
+        {
+            "source": "补丁：Aebell AL-QM5-EC10-P 4.0.3",
+            "target": "Aebell AL-QM5-EC10-P",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3171",
+            "target": "硬编码",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3171",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3171",
+            "target": "信息泄露",
+            "value": 1
+        },
+        {
+            "source": "TP-Link TL-SC3171",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "补丁：TP-Link TL-SC3171 3.3",
+            "target": "TP-Link TL-SC3171",
+            "value": 1
+        },
+        {
+            "source": "Hikvision DS-2CD893PF-E",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "补丁：Hikvision Dikvision-E 6.2",
+            "target": "Hikvision DS-2CD893PF-E",
+            "value": 1
+        },
+        {
+            "source": "Legrand CM2001",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "Legrand CM2001",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "补丁：Build 1.13.3",
+            "target": "Legrand CM2001",
+            "value": 1
+        },
+        {
+            "source": "Bosch 630 VR ",
+            "target": "硬编码",
+            "value": 1
+        },
+        {
+            "source": "Bosch 630 VR ",
+            "target": "命令注入",
+            "value": 1
+        },
+        {
+            "source": "补丁：Bosch Vosch-VR 1.11.3",
+            "target": "Bosch 630 VR ",
+            "value": 1
+        },
+        {
+            "source": "Brickcom CB-100Ae",
+            "target": "硬编码",
+            "value": 1
+        },
+        {
+            "source": "Brickcom CB-100Ae",
+            "target": "目录遍历",
+            "value": 1
+        },
+        {
+            "source": "目录遍历",
+            "target": "补丁：Build 4.2.1",
+            "value": 1
+        },
+        {
+            "source": "目录遍历",
+            "target": "补丁：Mossa Nossa-NIC835 3.0",
+            "value": 1
+        },
+        {
+            "source": "目录遍历",
+            "target": "补丁：Hikvision Dikvision-E 4.11.3",
+            "value": 1
+        },
+        {
+            "source": "目录遍历",
+            "target": "补丁：Honeywell HICC-1100PT 6.0",
+            "value": 1
+        },
+        {
+            "source": "目录遍历",
+            "target": "补丁：Version 5.0.5 of CB-100Ae",
+            "value": 1
+        },
+        {
+            "source": "LG LE6016D DVR ",
+            "target": "认证缺失",
+            "value": 1
+        },
+        {
+            "source": "LG LE6016D DVR ",
+            "target": "信息泄露",
+            "value": 1
+        }
+    ]
+}
